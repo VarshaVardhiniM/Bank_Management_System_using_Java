@@ -107,5 +107,5 @@ If you want, you can also **make it more visually appealing for GitHub** by addi
 
 ---
 
-### ~Manthripragada Varsha Vardhini
+**~Manthripragada Varsha Vardhini**
 
