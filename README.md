@@ -95,10 +95,10 @@ TransactionType.class – Compiled enum representing different types of transact
 
 ## Final Conclusion
 This Bank Management System project demonstrates the implementation of core banking operations using Java and Swing. It highlights:
--> Object-oriented programming concepts (Account, Bank, Transaction).
--> Secure handling of sensitive data using hashing.
--> File-based persistence and CSV export.
--> Building a complete, interactive GUI application.
+- Object-oriented programming concepts (Account, Bank, Transaction).
+-  Secure handling of sensitive data using hashing.
+- File-based persistence and CSV export.
+- Building a complete, interactive GUI application.
 It is suitable for learning Java, GUI design, and basic banking system logic.
 
 ---
