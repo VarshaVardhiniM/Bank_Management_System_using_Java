@@ -18,7 +18,7 @@ This project is a **Java-based GUI Bank Management System** that allows users to
 ## Folder Structure
 
 Bank_Management_System_using_Java/
-│
+
 ├── Account.java
 ├── Bank.java
 ├── BankGUIApp.java
@@ -67,8 +67,10 @@ javac *.java
 java BankGUIApp
 
 Now Folder Structure looks like:
+
 Bank_Management_System_using_Java/
-│
+
+
 ├─ Account.java
 ├─ Account.class
 ├─ Bank.java
