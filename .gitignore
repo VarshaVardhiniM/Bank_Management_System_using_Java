@@ -1,0 +1,9 @@
+# Ignore compiled class files
+*.class
+
+# Ignore saved account data
+accounts.dat
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
