@@ -18,12 +18,12 @@ This project is a **Java-based GUI Bank Management System** that allows users to
 ## Folder Structure
 
 Bank_Management_System_using_Java/
-├── Account.java # Account class
-├── Bank.java # Bank operations and persistence
-├── BankGUIApp.java # Main GUI application
-├── Transaction.java # Transaction class + TransactionType enum
-├── logo1.png # logo
-L .gitignore # Ignore compiled and runtime files
+├── Account.java
+├── Bank.java
+├── BankGUIApp.java
+├── Transaction.java
+├── logo1.png
+├── .gitignore
 
 ---
 
@@ -64,6 +64,22 @@ javac *.java
 
 4. Run the program:
 java BankGUIApp
+
+Now Folder Structure looks like:
+Bank_Management_System_using_Java/
+├── Account.java
+├── Account.class
+├── Bank.java
+├── Bank.class
+├── BankGUIApp.java
+├── BankGUIApp.class
+├── BankGUIApp$1.class
+├── Transaction.java
+├── Transaction.class
+├── TransactionType.class
+├── logo1.png
+├── accounts.dat
+├── .gitignore
 
 ---
 
