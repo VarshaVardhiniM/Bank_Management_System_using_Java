@@ -23,7 +23,7 @@ Bank_Management_System_using_Java/
 ├── BankGUIApp.java
 ├── Transaction.java
 ├── logo1.png
-├── .gitignore
+└── .gitignore
 
 ---
 
@@ -79,7 +79,7 @@ Bank_Management_System_using_Java/
 ├── TransactionType.class
 ├── logo1.png
 ├── accounts.dat
-├── .gitignore
+└── .gitignore
 
 ---
 
